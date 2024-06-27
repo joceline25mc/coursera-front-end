@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "context"
+		},
+		{
+			"path": "hooks"
+		},
+		{
+			"path": "images"
+		},
+		{
+			"path": "components"
+		}
+	],
+	"settings": {}
+}
